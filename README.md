@@ -1,6 +1,6 @@
 # blackjack
 Developed by: Tony Rahman
-Site: www.FlyingSalmon.net
+Site: http://flyingsalmon.net/?tag=stem
 Purpose: STEM - educational purpose
 
 Overview:
